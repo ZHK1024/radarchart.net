@@ -5,3 +5,5 @@ Disallow: /terms-of-service
 Disallow: /zh
 Disallow: /docs
 Disallow: /showcase
+Disallow: /embed
+Disallow: /test
