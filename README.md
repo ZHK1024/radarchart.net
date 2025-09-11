@@ -12,6 +12,7 @@ Features
 - Download PNG: download high-resolution PNG images of your chart.
 
 To view the site, visit: [Radar Chart Maker Online](https://radarchart.net)
+<a href="https://radarchart.net">Radar Chart Maker Online</a>
 
 Note
 
