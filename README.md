@@ -11,7 +11,11 @@ Features
 - Customization: adjust colors, labels, sizes and simple styling options.
 - Download PNG: download high-resolution PNG images of your chart.
 
-To view the site, visit: [Radar Chart Maker Online](https://radarchart.net)
+To view the site, visit: 
+
+- [Radar Chart Maker Online](https://radarchart.net)
+- [Pie Chart Maker Online](https://radarchart.net/pie-chart)
+- [Scatter Plot Maker Online](https://radarchart.net/scatter-plot)
 
 Note
 
